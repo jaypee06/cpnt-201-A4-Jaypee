@@ -1,12 +1,13 @@
 # COMMIT LIST
 
 ## Christohper Barber 
-- [Added paragraph](https://github.com/13retonnian/cpnt201-a4-chris/pull/3/commits/2404fdd1990d94f2d0b31fa0f471882c3ce980f5)
-- [Added h1 text](https://github.com/13retonnian/cpnt201-a4-chris/pull/4/commits/2a85f9827706d4b673ba1457305317ddbd6bb9af)
-- [Added font size](https://github.com/13retonnian/cpnt201-a4-chris/pull/5/commits/2eb11daf08e1b9881dc3dfc76b82cc154633a935)
-- [Changed background-color](https://github.com/13retonnian/cpnt201-a4-chris/pull/5/commits/2eb11daf08e1b9881dc3dfc76b82cc154633a935)
+- [fa718df](https://github.com/jaypee06/cpnt201-a4-chris-1/commit/fa718df1507cdee05f8301b2ef9584764651f06f)
+- [2eb11da](https://github.com/jaypee06/cpnt201-a4-chris-1/commit/2eb11daf08e1b9881dc3dfc76b82cc154633a935)
+- [5fb9677](https://github.com/jaypee06/cpnt201-a4-chris-1/commit/5fb9677ac6ffc20402524c56147e7bbddac301d6)
+- [2404fdd](https://github.com/jaypee06/cpnt201-a4-chris-1/commit/2404fdd1990d94f2d0b31fa0f471882c3ce980f5)
 
 ## Raj hunjan
-- [Changed to canadian spelling](https://github.com/Raj-Hunjan/cpnt-201-a4-raj/pull/2/commits/f536e5c961f6d5b15f4342137aee1b14e506fe82)
-- [Added h1 text]()
-- [Added font size](https://github.com/jaypee06/cpnt-201-a4-raj/commit/2b9923acb960e10534362a834e5a6150fa89cb56)
+- [a5cd10b](https://github.com/jaypee06/cpnt-201-a4-raj/commit/a5cd10b74802b884563c7abc483fc49ca8e0032c)
+- [8b61320](https://github.com/jaypee06/cpnt-201-a4-raj/commit/8b613202d4b9bb15f051a09be3c681a62973c07d)
+- [f536e5c](https://github.com/jaypee06/cpnt-201-a4-raj/commit/f536e5c961f6d5b15f4342137aee1b14e506fe82)
+- [0172113](https://github.com/jaypee06/cpnt-201-a4-raj/commit/01721131de5ab20ef7a173324e67b6b631001e8f)
